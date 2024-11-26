@@ -1,0 +1,4 @@
+config:
+  azure-py-appservice:sqlPassword:
+    secure: AAABAC/3wDa9KA5MvgKVWc8wS9+GKaqC1gYXsBWx36DmdnSCbGnusfuQqiL8Mw==
+  azure-native:location: uksouth
